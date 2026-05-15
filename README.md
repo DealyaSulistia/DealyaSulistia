@@ -1,12 +1,8 @@
-
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/DealyaSulistia/DealyaSulistia/refs/heads/main/BannerProfil.png"width="100%" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Information+Systems+Student;System+Analyst+Enthusiast;Data+and+Database+Explorer;Excel+VBA+Developer;UI%2FUX+Design+Learner" />
 </p>
-
 ---
-
 ## 👩‍💻 About Me
 
 🎓 D3 Sistem Informasi — Politeknik Negeri Subang  
