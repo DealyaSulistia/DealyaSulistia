@@ -1,8 +1,5 @@
-![DealyaSulistia](https://raw.githubusercontent.com/USERNAME/NAMA-REPO/main/banner.png)
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:B25068,50:E7ABBA,100:FFC1C1&text=DEALYA%20SULISTIA&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=%E2%80%A2%20System%20Analyst%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20Documentation&descAlignY=58&descSize=18&fontAlignX=50&descAlignX=50&dataIcons=true 
-    width="100%" 
-  />
+![BannerProfil.png](https://raw.githubusercontent.com/USERNAME/NAMA-REPO/main/banner.png)
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Information+Systems+Student;System+Analyst+Enthusiast;Data+and+Database+Explorer;Excel+VBA+Developer;UI%2FUX+Design+Learner" />
