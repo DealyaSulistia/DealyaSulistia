@@ -1,6 +1,10 @@
 
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,35:1F6FEB,70:58A6FF,100:79C0FF&text=ANANDA%20MARCELLA&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=System%20Analyst%20•%20Business%20Enthusiast%20•%20Tech%20Explorer&descAlignY=58&descSize=20" 
+    width="100%" 
+  />
 
-![Dealya Sulistia]([img/github-header-banner.png](https://capsule-render.vercel.app/api?type=soft&height=300&color=FFC1C1&text=DEALYA%20SULISTIA&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=%20%E2%80%A2%20System%20Analyst%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20Documentation&descAlignY=58&descSize=18))
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Information+Systems+Student;System+Analyst+Enthusiast;Data+and+Database+Explorer;Excel+VBA+Developer;UI%2FUX+Design+Learner" />
 </p>
